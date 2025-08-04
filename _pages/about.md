@@ -17,7 +17,9 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. Suspendisse condimentum, libero vel tempus mattis, risus risus vulputate libero, elementum fermentum mi neque vel nisl. Maecenas facilisis maximus dignissim. Curabitur mattis vulputate dui, tincidunt varius libero luctus eu. Mauris mauris nulla, scelerisque eget massa id, tincidunt congue felis. Sed convallis tempor ipsum rhoncus viverra. Pellentesque nulla orci, accumsan volutpat fringilla vitae, maximus sit amet tortor. Aliquam ultricies odio ut volutpat scelerisque. Donec nisl nisl, porttitor vitae pharetra quis, fringilla sed mi. Fusce pretium dolor ut aliquam consequat. Cras volutpat, tellus accumsan mattis molestie, nisl lacus tempus massa, nec malesuada tortor leo vel quam. Aliquam vel ex consectetur, vehicula leo nec, efficitur eros. Donec convallis non urna quis feugiat.
+Hi, I'm a second year graduate student at ShanghaiTech University. My current research focus in Deep Generative Models, such as Diffusion Bridge and Flow Matching.
+
+I am a National Master of Sport in Chess, certified by the Chinese Chess Association.
 
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
@@ -61,9 +63,9 @@ Shijie Wu\#, Yihang Zhu\#, Yunao Huang, Kaizhen Zhu, Jiayuan Gu, Jingyi Yu, **Ye
 
 
 # 🎖 Honors and Awards
-- *2023.6* First Prize of Zhejiang Mathematics Competition in 2023.
-- *2022.11* First Prize in the 2022 National College Student Mathematical Modeling Competition.
-- *2022.8* Second Prize in the 2022 National College Student Electronic Design Competition.
+- *2023.6* First Prize, Zhejiang Provincial Mathematics Competition 2023.
+- *2022.11* National First Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM) 2022.
+- *2022.8* Second Prize, National Undergraduate Electronic Design Contest (NUEDC) 2022.
 
 # 📖 Educations
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
