@@ -32,13 +32,27 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
 
 # 📝 Publications 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/UniDB.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**UniDB++: Fast Sampling of Unified Diffusion Bridge**
+
+ Mokai Pan, **Kaizhen Zhu**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi\*
+
+[[**paper**]](https://arxiv.org/abs/2505.21528)
+[[**code**]](https://github.com/2769433owo/UniDB-plusplus)
+
+</div>
+</div>
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/UniDB.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control, <span style="color:red;">ICML 2025 Spotlight.</span>**
 
-Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye Shi\***
+
+**Kaizhen Zhu\#**, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi\*
 
 [[**paper**]](https://arxiv.org/abs/2502.05749)
 [[**project**]](https://unidb-soc.github.io/UniDB_page)
@@ -52,7 +66,7 @@ Kaizhen Zhu\#, Mokai Pan\#, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, **Ye S
 
 **AffordDP: Generalizable Diffusion Policy with Transferable Affordance,	CVPR 2025.**
 
-Shijie Wu\#, Yihang Zhu\#, Yunao Huang, Kaizhen Zhu, Jiayuan Gu, Jingyi Yu, **Ye Shi\***, Jingya Wang\*
+Shijie Wu\#, Yihang Zhu\#, Yunao Huang, **Kaizhen Zhu**, Jiayuan Gu, Jingyi Yu, Ye Shi\*, Jingya Wang\*
 
 [[**paper**]](https://arxiv.org/abs/2412.03142)
 [[**project**]](https://afforddp.github.io/)
