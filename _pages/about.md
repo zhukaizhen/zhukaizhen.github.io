@@ -87,7 +87,7 @@ Shijie Wu\#, Yihang Zhu\#, Yunao Huang, **Kaizhen Zhu**, Jiayuan Gu, Jingyi Yu, 
 
 <span style="font-size:18px;">**ShanghaiTech University**</span>
 
-*2025.09 - now*
+*2024.09 - now*
 
 School of Information Science and Technology
 
@@ -103,7 +103,7 @@ MoE Key Laboratory of Intelligent Perception and Human Machine Collaboration, VD
 
 <span style="font-size:18px;">**Hangzhou Dianzi University**</span>
 
-*2021.09 - 2025.06*
+*2020.09 - 2024.06*
 
 School of Electronic Information
 
