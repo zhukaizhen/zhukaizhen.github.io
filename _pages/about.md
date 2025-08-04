@@ -25,10 +25,10 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
 
 
 # 🔥 News
-- *2025.05*: Our paper **UniDB++: Fast Sampling of Unified Diffusion Bridge** is submitting.
+- 2025.05: Our paper **UniDB++: Fast Sampling of Unified Diffusion Bridge** is submitting.
 - 2025.5: Our paper **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control** accepted by **ICML 2025** as a **Spotlight**!🎉🎉
 - 2025.4: Our paper **UniDB** won **Outstanding Paper Award** of ICLR 2025 DeLTa Workshop!🎉🎉
-- *2022.04*: Our paper **AffordDP: Generalizable Diffusion Policy with Transferable Affordance** accepted by **CVPR 2025**!🎉🎉
+- 2022.04: Our paper **AffordDP: Generalizable Diffusion Policy with Transferable Affordance** accepted by **CVPR 2025**!🎉🎉
 
 # 📝 Publications 
 
