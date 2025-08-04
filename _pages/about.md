@@ -61,8 +61,9 @@ Shijie Wu\#, Yihang Zhu\#, Yunao Huang, Kaizhen Zhu, Jiayuan Gu, Jingyi Yu, **Ye
 
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.6* First Prize of Zhejiang Mathematics Competition in 2023.
+- *2022.11* First Prize in the 2022 National College Student Mathematical Modeling Competition.
+- *2022.8* Second Prize in the 2022 National College Student Electronic Design Competition.
 
 # 📖 Educations
 <div class='paper-box'><div class='paper-box-image'><div><img src='images/skd.png' alt="sym" width="95%"></div></div>
