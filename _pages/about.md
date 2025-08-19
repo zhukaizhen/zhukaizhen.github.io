@@ -21,6 +21,43 @@ Hi, I'm a second year graduate student at ShanghaiTech University. My current re
 
 I am a National Master of Sport in Chess, certified by the Chinese Chess Association.
 
+
+<div style="display: flex; align-items: flex-start; margin: 20px 0; padding: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
+  <div style="flex: 0 0 300px; margin-right: 30px;">
+    <img src="images/zhu.png" alt="Chess Position" style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
+  </div>
+  <div style="flex: 1; padding-left: 20px;">
+    <h3 style="color: #2c3e50; margin-bottom: 15px; font-family: 'Georgia', serif;">♛ Featured Chess Analysis</h3>
+    <div style="background: rgba(255, 255, 255, 0.9); padding: 15px; border-radius: 10px; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);">
+      <h4 style="color: #34495e; margin-bottom: 10px;">Move Sequence:</h4>
+      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 8px; font-family: 'Courier New', monospace;">
+        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">1. Ne5</span>
+        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">d5</span>
+        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">2. exd5</span>
+        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Bxe5</span>
+        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">3. dxc6</span>
+        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Qh6</span>
+        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">4. Qe7</span>
+        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Ng4</span>
+        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">5. Bg2</span>
+        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Kg1</span>
+        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">6. Qc5</span>
+        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Qe3</span>
+        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">7. Qxe3</span>
+        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Nxe3</span>
+        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">8. Be4</span>
+        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Bxg7</span>
+        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">9. Kxg7</span>
+      </div>
+      <p style="margin-top: 15px; color: #7f8c8d; font-style: italic; font-size: 14px;">
+        ♔ White moves | ♚ Black moves
+      </p>
+    </div>
+  </div>
+</div>
+
+
+
 <!-- My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>). -->
 
 
