@@ -27,28 +27,28 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
     <img src="images/zhu.png" alt="Chess Position" style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
   </div>
   <div style="flex: 1; padding-left: 20px;">
-    <h3 style="color: #2c3e50; margin-bottom: 15px; font-family: 'Georgia', serif;">♛ Featured Chess Analysis</h3>
+    <h3 style="color: #2c3e50; margin-bottom: 15px; font-family: 'Georgia', serif;">♛ My Chess Game</h3>
     <div style="background: rgba(255, 255, 255, 0.9); padding: 15px; border-radius: 10px; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);">
       <h4 style="color: #34495e; margin-bottom: 10px;">Move Sequence:</h4>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 8px; font-family: 'Courier New', monospace;">
-        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">1. Ne5</span>
-        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">d5</span>
-        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">2. exd5</span>
-        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Bxe5</span>
-        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">3. dxc6</span>
-        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Qh6</span>
-        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">4. Qe7</span>
-        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Ng4</span>
-        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">5. Bg2</span>
-        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Kg1</span>
-        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">6. Qc5</span>
-        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Qe3</span>
-        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">7. Qxe3</span>
-        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Nxe3</span>
-        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">8. Be4</span>
-        <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Bxg7</span>
-        <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">9. Kxg7</span>
-      </div>
+             <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 8px; font-family: 'Courier New', monospace;">
+         <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">1... Ne5</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">2. d5</span>
+         <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">exd5</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">3. Bxe5</span>
+         <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">dxc6</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">4. Qh6</span>
+         <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Qe7</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">5. Ng4</span>
+         <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Bg2</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">6. Kg1</span>
+         <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Qc5</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">7. Qe3</span>
+         <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Qxe3</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">8. Nxe3</span>
+         <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Be4</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">9. Bxg7</span>
+         <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Kxg7</span>
+       </div>
       <p style="margin-top: 15px; color: #7f8c8d; font-style: italic; font-size: 14px;">
         ♔ White moves | ♚ Black moves
       </p>
