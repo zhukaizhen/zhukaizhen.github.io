@@ -21,7 +21,6 @@ Hi, I'm a second year graduate student at ShanghaiTech University. My current re
 
 I am a National Master of Sport in Chess, certified by the Chinese Chess Association.
 
-
 <div style="display: flex; align-items: flex-start; margin: 20px 0; padding: 20px; background: linear-gradient(135deg, #f5f7fa 0%, #c3cfe2 100%); border-radius: 15px; box-shadow: 0 8px 32px 0 rgba(31, 38, 135, 0.37);">
   <div style="flex: 0 0 300px; margin-right: 30px;">
     <img src="images/zhu.png" alt="Chess Position" style="width: 100%; height: auto; border-radius: 10px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);">
@@ -31,27 +30,28 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
     <div style="background: rgba(255, 255, 255, 0.9); padding: 15px; border-radius: 10px; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);">
       <h4 style="color: #34495e; margin-bottom: 10px;">Move Sequence:</h4>
              <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 8px; font-family: 'Courier New', monospace;">
-         <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">1... Ne5</span>
-         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">2. d5</span>
+                  <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Ne5</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">d5</span>
          <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">exd5</span>
-         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">3. Bxe5</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Bxe5</span>
          <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">dxc6</span>
-         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">4. Qh6</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Qh6</span>
          <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Qe7</span>
-         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">5. Ng4</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Ng4</span>
          <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Bg2</span>
-         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">6. Kg1</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Kg1</span>
          <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Qc5</span>
-         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">7. Qe3</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Qe3</span>
          <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Qxe3</span>
-         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">8. Nxe3</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Nxe3</span>
          <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Be4</span>
-         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">9. Bxg7</span>
+         <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Bxg7</span>
          <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Kxg7</span>
        </div>
-      <p style="margin-top: 15px; color: #7f8c8d; font-style: italic; font-size: 14px;">
-        ♔ White moves | ♚ Black moves
-      </p>
+       <p style="margin-top: 15px; color: #7f8c8d; font-style: italic; font-size: 14px;">
+         <span style="background: #3498db; color: white; padding: 2px 6px; border-radius: 3px; margin-right: 8px;">蓝色</span>白方下棋 | 
+         <span style="background: #e74c3c; color: white; padding: 2px 6px; border-radius: 3px; margin-left: 8px; margin-right: 8px;">红色</span>黑方下棋
+       </p>
     </div>
   </div>
 </div>
