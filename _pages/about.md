@@ -28,7 +28,7 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
   <div style="flex: 1; padding-left: 20px;">
     <h3 style="color: #2c3e50; margin-bottom: 15px; font-family: 'Georgia', serif;">♛ My Chess Game</h3>
     <div style="background: rgba(255, 255, 255, 0.9); padding: 15px; border-radius: 10px; box-shadow: inset 0 2px 4px rgba(0, 0, 0, 0.1);">
-      <h4 style="color: #34495e; margin-bottom: 10px;">Move Sequence:</h4>
+      <h4 style="color: #34495e; margin-bottom: 10px;">Move:</h4>
              <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(80px, 1fr)); gap: 8px; font-family: 'Courier New', monospace;">
                   <span style="background: #e74c3c; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">Ne5</span>
          <span style="background: #3498db; color: white; padding: 4px 8px; border-radius: 5px; text-align: center; font-weight: bold;">d5</span>
