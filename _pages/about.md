@@ -62,6 +62,7 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
 
 
 # 🔥 News
+- 2025.09: Our paper **Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis** is submitting.
 - 2025.05: Our paper **UniDB++: Fast Sampling of Unified Diffusion Bridge** is submitting.
 - 2025.05: Our paper **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control** accepted by **ICML 2025** as a **Spotlight**!🎉🎉
 - 2025.04: Our paper **UniDB** won **Outstanding Paper Award** of ICLR 2025 DeLTa Workshop!🎉🎉
@@ -69,7 +70,7 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/unidb++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DBFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis**
@@ -83,7 +84,7 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DBFM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/unidb++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UniDB++: Fast Sampling of Unified Diffusion Bridge**
