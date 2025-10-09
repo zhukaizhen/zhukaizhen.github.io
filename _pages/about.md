@@ -72,6 +72,20 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/unidb++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
+**Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis**
+
+**Kaizhen Zhu\#**, Mokai Pan\#, Zhechuan Yu, Jingyi Yu, Jingya Wang, Ye Shi\*
+
+[[**paper**]](https://arxiv.org/pdf/2509.24531v1)
+[[**code**]](https://anonymous.4open.science/r/DBFM-3E8E)
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/unidb++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
 **UniDB++: Fast Sampling of Unified Diffusion Bridge**
 
  Mokai Pan, **Kaizhen Zhu**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi\*
