@@ -83,7 +83,7 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/unidb++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DBFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 **UniDB++: Fast Sampling of Unified Diffusion Bridge**
