@@ -62,8 +62,9 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
 
 
 # 🔥 News
+- 2025.11: Our paper **Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation** is submitting.
+- 2025.11: Our paper **A Unified and Fast-Sampling Diffusion Bridge Framework via Stochastic Optimal Control** is submitting.
 - 2025.09: Our paper **Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis** is submitting.
-- 2025.05: Our paper **UniDB++: Fast Sampling of Unified Diffusion Bridge** is submitting.
 - 2025.05: Our paper **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control** accepted by **ICML 2025** as a **Spotlight**!🎉🎉
 - 2025.04: Our paper **UniDB** won **Outstanding Paper Award** of ICLR 2025 DeLTa Workshop!🎉🎉
 - 2025.04: Our paper **AffordDP: Generalizable Diffusion Policy with Transferable Affordance** accepted by **CVPR 2025**!🎉🎉
