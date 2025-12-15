@@ -75,7 +75,7 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
 
 **Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation**
 
-**Zhaoyang Liu, Mokai Pan, Zhongyi Wang, Kaizhen Zhu, Haotao Lu, Jingya Wang, Ye Shi\*
+Zhaoyang Liu, Mokai Pan, Zhongyi Wang, **Kaizhen Zhu**, Haotao Lu, Jingya Wang, Ye Shi\*
 
 [[**paper**]](https://arxiv.org/pdf/2512.07212)
 
@@ -99,9 +99,9 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/unidb++.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**UniDB++: Fast Sampling of Unified Diffusion Bridge**
+**A Unified and Fast-Sampling Diffusion Bridge Framework via Stochastic Optimal Control**
 
- Mokai Pan, **Kaizhen Zhu**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi\*
+ Mokai Pan\#, **Kaizhen Zhu\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi\*
 
 [[**paper**]](https://arxiv.org/abs/2505.21528)
 [[**code**]](https://github.com/2769433owo/UniDB-plusplus)
