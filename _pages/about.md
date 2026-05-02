@@ -71,10 +71,10 @@ I am a National Master of Sport in Chess, certified by the Chinese Chess Associa
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DBPolicy.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Poster</div><img src='images/DBPolicy.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation**
+**Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation, <span style="color:red;">ICML 2026 Poster.</span>**
 
 Zhaoyang Liu, Mokai Pan, Zhongyi Wang, **Kaizhen Zhu**, Haotao Lu, Jingya Wang, Ye Shi\*
 
@@ -83,10 +83,10 @@ Zhaoyang Liu, Mokai Pan, Zhongyi Wang, **Kaizhen Zhu**, Haotao Lu, Jingya Wang, 
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/DBFM.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Poster</div><img src='images/DBFM.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-**Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis**
+**Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis, <span style="color:red;">ICML 2026 Poster.</span>**
 
 **Kaizhen Zhu\#**, Mokai Pan\#, Zhechuan Yu, Jingyi Yu, Jingya Wang, Ye Shi\*
 
