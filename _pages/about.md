@@ -227,7 +227,42 @@ Shijie Wu\#, Yihang Zhu\#, Yunao Huang, **Kaizhen Zhu**, Jiayuan Gu, Jingyi Yu, 
 </div>
 
 
+# 💻 Software
+
+<div class="kz-soft">
+<style>
+.kz-soft{position:relative;margin:24px 0;padding:28px;border-radius:22px;background:linear-gradient(135deg,#1b2440 0%,#2a3a66 45%,#3b2c63 100%);box-shadow:0 18px 50px -12px rgba(20,24,60,.65),inset 0 1px 0 rgba(255,255,255,.08);color:#eef1fb;overflow:hidden;}
+.kz-soft::before{content:"";position:absolute;inset:-45%;background:conic-gradient(from 0deg,transparent 0 70%,rgba(120,170,255,.30) 83%,transparent 93%);animation:kzsoftspin 13s linear infinite;z-index:0;pointer-events:none;}
+@keyframes kzsoftspin{to{transform:rotate(360deg);}}
+.kz-soft>*{position:relative;z-index:1;}
+.kz-soft__title{font-size:30px;font-weight:800;letter-spacing:.3px;line-height:1.15;background:linear-gradient(90deg,#cfe0ff,#9db8ff 42%,#d9c6ff);-webkit-background-clip:text;background-clip:text;color:transparent;}
+.kz-soft__sub{margin-top:7px;font-size:15px;color:#c4cdea;}
+.kz-soft__chips{display:flex;flex-wrap:wrap;gap:9px;margin:16px 0 20px;}
+.kz-chip{font-size:13px;padding:6px 13px;border-radius:999px;background:rgba(255,255,255,.08);border:1px solid rgba(255,255,255,.17);color:#e9eefc;transition:transform .2s ease,background .2s ease,border-color .2s ease;}
+.kz-chip:hover{transform:translateY(-2px);background:rgba(140,180,255,.20);border-color:rgba(160,195,255,.5);}
+.kz-soft__video{position:relative;border-radius:16px;overflow:hidden;line-height:0;box-shadow:0 16px 44px -10px rgba(0,0,0,.65),0 0 0 1px rgba(255,255,255,.10);}
+.kz-soft__video video{display:block;width:100%;height:auto;border-radius:16px;}
+@media(max-width:560px){.kz-soft{padding:18px;}.kz-soft__title{font-size:23px;}}
+</style>
+<div class="kz-soft__title">ChessPrep&nbsp;Lab</div>
+<div class="kz-soft__sub">A local-first chess training workbench I built from scratch — opening prep, endgames, and engine sparring in one offline app.</div>
+<div class="kz-soft__chips">
+<span class="kz-chip">♟ Opening repertoire trainer</span>
+<span class="kz-chip">🧩 300 complex endgames · 2650+ Elo</span>
+<span class="kz-chip">🤖 Stockfish + Maia‑3 sparring</span>
+<span class="kz-chip">🔌 Fully offline</span>
+</div>
+<div class="kz-soft__video">
+<video controls preload="metadata" playsinline>
+<source src="images/chessprep-lab-demo.mp4" type="video/mp4">
+Your browser does not support the video tag. <a href="images/chessprep-lab-demo.mp4">Download the demo video</a>.
+</video>
+</div>
+</div>
+
+
 # 🎖 Honors and Awards
+- *2026* Champion, Rapid U2200, FIDE World Team Rapid and Blitz Chess Championships 2026.
 - *2023.6* First Prize, Zhejiang Provincial Mathematics Competition 2023.
 - *2022.11* National First Prize, China Undergraduate Mathematical Contest in Modeling (CUMCM) 2022.
 - *2022.8* Second Prize, National Undergraduate Electronic Design Contest (NUEDC) 2022.
