@@ -149,6 +149,7 @@ relabel();rebuild();resize();updateUI();schedule();
 
 # 🔥 News
 - 2026.06: Our paper **A Unified and Fast-Sampling Diffusion Bridge Framework via Stochastic Optimal Control** accepted by **IEEE TPAMI**!🎉🎉
+- 2026.06: Our Team win the **Champion, Rapid U2200, FIDE World Team Rapid and Blitz Chess Championships 2026**!🎉🎉
 - 2026.05: Our paper **Diffusion Bridge or Flow Matching? A Unifying Framework and Comparative Analysis** accepted by **ICML 2026** as a **Poster**!🎉🎉
 - 2026.05: Our paper **Sample from What You See: Visuomotor Policy Learning via Diffusion Bridge with Observation-Embedded Stochastic Differential Equation** accepted by **ICML 2026** as a **Poster**!🎉🎉
 - 2025.05: Our paper **UniDB: A Unified Diffusion Bridge Framework via Stochastic Optimal Control** accepted by **ICML 2025** as a **Spotlight**!🎉🎉
@@ -156,6 +157,19 @@ relabel();rebuild();resize();updateUI();schedule();
 - 2025.04: Our paper **AffordDP: Generalizable Diffusion Policy with Transferable Affordance** accepted by **CVPR 2025**!🎉🎉
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/unidb++.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+**A Unified and Fast-Sampling Diffusion Bridge Framework via Stochastic Optimal Control, <span style="color:red;">IEEE TPAMI 2026.</span>**
+
+ Mokai Pan\#, **Kaizhen Zhu\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi\*
+
+[[**paper**]](https://arxiv.org/abs/2505.21528)
+[[**code**]](https://github.com/2769433owo/UniDB-plusplus)
+
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026 Poster</div><img src='images/DBP2.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -182,19 +196,6 @@ Zhaoyang Liu, Mokai Pan, Zhongyi Wang, **Kaizhen Zhu**, Haotao Lu, Jingya Wang, 
 </div>
 </div>
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TPAMI 2026</div><img src='images/unidb++.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-**A Unified and Fast-Sampling Diffusion Bridge Framework via Stochastic Optimal Control, <span style="color:red;">IEEE TPAMI 2026.</span>**
-
- Mokai Pan\#, **Kaizhen Zhu\#**, Yuexin Ma, Yanwei Fu, Jingyi Yu, Jingya Wang, Ye Shi\*
-
-[[**paper**]](https://arxiv.org/abs/2505.21528)
-[[**code**]](https://github.com/2769433owo/UniDB-plusplus)
-
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2025 Spotlight</div><img src='images/UniDB.png' alt="sym" width="100%"></div></div>
